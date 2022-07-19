@@ -16,6 +16,9 @@
     "react-leaflet": "^2.7.0",
     "react-scripts": "3.4.1"
   },
+  "engines": {
+    "node": "16.16.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
